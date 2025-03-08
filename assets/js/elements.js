@@ -1,27 +1,27 @@
 export const appElements = [
   {
     name: "About Me",
-    image: "/desktop-web/images/about.png",
+    image: "/images/about.png",
     target: "about-window",
   },
   {
     name: "Skills",
-    image: "/desktop-web/images/skills.png",
+    image: "/images/skills.png",
     target: "skills-window",
   },
   {
     name: "Education",
-    image: "/desktop-web/images/education.png",
+    image: "/images/education.png",
     target: "education-window",
   },
   {
     name: "Portfolio",
-    image: "/desktop-web/images/portfolio.png",
+    image: "/images/portfolio.png",
     target: "portfolio-window",
   },
   {
     name: "Contact",
-    image: "/desktop-web/images/contacts.png",
+    image: "/images/contacts.png",
     target: "contact-window",
   },
 ];
@@ -30,7 +30,7 @@ export const windowElements = [
   {
     id: "welcome",
     title: "Welcome :)",
-    content: "/desktop-web/markdown/welcome.md",
+    content: "/markdown/welcome.md",
     active: true,
   },
   {
